@@ -2,5 +2,6 @@
     <string name="app_name">Hello World</string>
 
     <string name="hello_world">Hello Kenny!</string>
+    <string name="random">RandomString</string>
     <string name="action_settings">Settings</string>
 </resources>
